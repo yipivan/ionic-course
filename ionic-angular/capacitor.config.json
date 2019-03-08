@@ -1,0 +1,6 @@
+{
+  "appId": "com.yipivan.ionic",
+  "appName": "ionic-angular",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
