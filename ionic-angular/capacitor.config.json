@@ -2,5 +2,9 @@
   "appId": "com.yipivan.ionic",
   "appName": "ionic-angular",
   "bundledWebRuntime": false,
-  "webDir": "www"
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/home/ivan/android-studio/bin/studio.sh",
+  "server": {
+    "url": "http://10.0.1.50:8100"
+  }
 }

@@ -14,5 +14,11 @@ export class RecipesPage implements OnInit {
 
   ngOnInit() {
     this.recipes = this.recipesService.getAllRecipes()
+    console.log('Received recipes', this.recipes)
+  }
+
+  ionViewWillEnter() {
+    console.log('will enter')
+    this.recipes = this.recipesService.getAllRecipes()
   }
 }

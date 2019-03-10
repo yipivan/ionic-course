@@ -1,6 +1,7 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.yipivan.ionic",
   "appName": "ionic-angular",
   "bundledWebRuntime": false,
-  "webDir": "www"
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/home/ivan/android-studio/bin/studio.sh"
 }
